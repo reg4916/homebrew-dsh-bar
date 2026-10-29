@@ -1,6 +1,6 @@
 cask "dsh-bar" do
-  version "0.2.2"
-  sha256 "2f8ffaae4bbca93082a429a32ad0c513de14233f6cec132561ac8fe5445e2e43"
+  version "0.3.0"
+  sha256 "73d45e3964f17a916bb7d9c98f95330705fdcc81a4c07a4fe7490e4525fd6d12"
 
   url "https://github.com/reg4916/dsh-bar/releases/download/v#{version}/DSHBar-#{version}-macos-universal.zip"
   name "DSH Bar"
